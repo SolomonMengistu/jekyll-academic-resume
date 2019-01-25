@@ -1,5 +1,5 @@
 contact:
-    name: Alan Doe
+    name: Abebe Kebede
     summary: Full Stack Developer
     avatar: bio.jpg
 
@@ -17,9 +17,9 @@ contact:
     osf: # your Open Science Framework username
 
 education:
-    - degree: MSc in Computer Science
+    - degree: MSc in Computer Engineering
       university: University of London
-      time: 2011 - 2012
+      time: 2017 - 2019
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
